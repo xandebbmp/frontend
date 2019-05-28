@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="150px"
+   height="80px"
+   viewBox="0 0 250 218"
+   version="1.1"
+   preserveAspectRatio="xMidYMid"
+   id="svg3783"
+   sodipodi:docname="logo.svg"
+   inkscape:version="0.92.4 (unknown)">
+  <metadata
+     id="metadata3789">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3787" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="959"
+     inkscape:window-height="1025"
+     id="namedview3785"
+     showgrid="false"
+     inkscape:zoom="5.21875"
+     inkscape:cx="72.100927"
+     inkscape:cy="32.070743"
+     inkscape:window-x="1366"
+     inkscape:window-y="26"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg3783"
+     inkscape:snap-bbox="false"
+     inkscape:snap-global="true" />
+  <g
+     id="g3781"
+     transform="matrix(0.61042428,0,0,0.49114769,-83.544911,54.304192)"
+     style="fill:#008000">
+    <polygon
+       points="128,40.771256 63.994564,0 0,40.771256 63.994564,81.542513 "
+       id="polygon3771"
+       style="fill:#008000" />
+    <polygon
+       points="256.00088,40.775002 192.00044,0 128,40.775002 192.00044,81.550003 "
+       id="polygon3773"
+       style="fill:#008000" />
+    <polygon
+       points="63.994564,81.550003 0,122.32126 63.994564,163.09252 128,122.32126 "
+       id="polygon3775"
+       style="fill:#008000" />
+    <polygon
+       points="256,122.32472 192,81.550003 128,122.32472 192,163.09944 "
+       id="polygon3777"
+       style="fill:#008000" />
+    <polygon
+       points="128.00544,136 64,176.77126 128.00544,217.54251 192,176.77126 "
+       id="polygon3779"
+       style="fill:#008000" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:56.8657074px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:1.42164278"
+     x="69.427467"
+     y="159.24358"
+     id="text3793"
+     transform="matrix(1.2481636,-0.00384578,0.00229275,0.80116996,0,0)"><tspan
+       sodipodi:role="line"
+       id="tspan3791"
+       x="69.427467"
+       y="159.24358"
+       style="fill:#008000;stroke-width:1.42164278">AdBox</tspan></text>
+</svg>
